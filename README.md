@@ -1,4 +1,4 @@
-<img width="734" height="241" alt="Untitled-10" src="https://github.com/user-attachments/assets/f823f7c1-e1e1-4a5b-b65d-a15f1498be3e" />
+<img width="734" height="241" alt="Untitled-11" src="https://github.com/user-attachments/assets/b84698b2-05cf-4abd-97c2-e34bd231cdd1" />
 
 # <p align="center"> RYHA FRAMEWORK </p>
 
@@ -21,7 +21,8 @@
 ## 🧱 The "Secret Base" Setup
 Before we start, make sure your folders look like this:
 
-📂 **RYHA-Framework/** ┣ 📂 **core/** — 🧠 The Brains (engine.py, loader.py, __init__.py)  
+📂 **RYHA-Framework/**
+┣ 📂 **core/** — 🧠 The Brains (engine.py, loader.py, __init__.py)  
 ┣ 📂 **modules/** — 💎 The Gadgets (harvester.py, network.py, __init__.py)  
 ┗ 📂 **dashboard/** — 🕹️ The Control Room (server.py)  
 
