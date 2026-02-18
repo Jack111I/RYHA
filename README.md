@@ -69,8 +69,7 @@ Hide your ryha_agent.exe inside a normal picture using a joiner.
 | 💎 | Harvester | Finds AWS keys, Discord tokens, and SSH keys. |
 📜 
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Maintained%253F-Yes-red%3Fstyle%3Dflat-square">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Made%2520with-Python-yellow%3Fstyle%3Dflat-square%26logo%3Dpython">
+:P
 </p>
 
 -----
@@ -78,7 +77,7 @@ Hide your ryha_agent.exe inside a normal picture using a joiner.
 
 ### 🌟 If you found this useful, please star the repo! 🌟
 
-**Made with ❤️ by the SAYO**
+**Made with Coded by the SAYO**
 
 *Hack the Planet* 🌐🔓
 
